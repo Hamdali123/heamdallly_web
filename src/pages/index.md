@@ -1,50 +1,46 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+title: WELLCOME TO HEAMDALLY.NET
+image: /img/background.jpg
+heading: Layanan pasang WiFi kami mencakup
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
+  title: SELAMAT DATANG DI HEAMDALLY.NET
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+   Solusi Pemasangan WiFi Profesional!
+   Heamdally.net adalah penyedia jasa pemasangan WiFi terpercaya yang menawarkan solusi jaringan internet terbaik untuk rumah, kantor, dan bisnis Anda. Kami mengerti bahwa koneksi internet yang stabil dan cepat sangat penting dalam kehidupan sehari-hari, oleh karena itu kami berkomitmen untuk memberikan layanan pemasangan WiFi yang handal dan efisien.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Instalasi Cepat dan Mudah Tim ahli kami akan memasang jaringan WiFi dengan cepat, memastikan Anda bisa langsung menikmati internet tanpa ribet.
+  Kecepatan Tinggi dan Stabil Dapatkan akses internet dengan kecepatan tinggi dan kualitas yang stabil, ideal untuk bekerja, streaming, bermain game, dan aktivitas online lainnya.
+  Paket Sesuai Kebutuhan Pilih paket yang sesuai dengan kebutuhan Anda, baik untuk penggunaan pribadi, keluarga, atau bisnis.
+  Dukungan Pelanggan 24/7 Kami siap membantu Anda kapan saja jika terjadi masalah dengan jaringan WiFi, memastikan koneksi Anda tetap optimal.
+subdescription: >-
+  Instalasi Cepat dan Mudah Tim ahli kami akan memasang jaringan WiFi dengan cepat, memastikan Anda bisa langsung menikmati internet tanpa ribet.
+  Kecepatan Tinggi dan Stabil Dapatkan akses internet dengan kecepatan tinggi dan kualitas yang stabil, ideal untuk bekerja, streaming, bermain game, dan aktivitas online lainnya.
+  Paket Sesuai Kebutuhan Pilih paket yang sesuai dengan kebutuhan Anda, baik untuk penggunaan pribadi, keluarga, atau bisnis.
+  Dukungan Pelanggan 24/7 Kami siap membantu Anda kapan saja jika terjadi masalah dengan jaringan WiFi, memastikan koneksi Anda tetap optimal.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/kabel-utp.jpeg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Kabel UTP (Unshielded Twisted Pair) adalah
+        Kabel UTP terdiri dari beberapa pasang kawat tembaga
+        yang dipilin bersama untuk mengurangi interferensi sinyal,
+        Kabel Fiber Optik adalah
+        Kabel fiber optik menggunakan serat kaca atau
+        plastik untuk mentransmisikan data dalam bentuk cahaya.
+    - image: /img/cisco-switch.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        Cisco adalah perusahaan teknologi global yang menyediakan solusi jaringan dan komunikasi, 
+        termasuk perangkat keras (seperti router dan switch), perangkat lunak, dan layanan.
+        Switch adalah perangkat jaringan yang digunakan untuk menghubungkan 
+        berbagai perangkat dalam jaringan lokal (LAN). 
+    - image: /img/point-router.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        Access Point (AP) adalah perangkat jaringan yang menghubungkan perangkat nirkabel (seperti laptop, smartphone, dan tablet) ke jaringan kabel (seperti LAN). Access point berfungsi sebagai jembatan antara perangkat nirkabel dan jaringan, memungkinkan perangkat untuk mengakses internet atau sumber daya jaringan lainnya. AP biasanya digunakan untuk memperluas jangkauan sinyal Wi-Fi dalam area yang lebih luas dan menyediakan konektivitas nirkabel yang lebih stabil di lingkungan seperti rumah, kantor, atau ruang publik.
+    - image: /img/access.jpeg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Router adalah perangkat jaringan yang berfungsi untuk menghubungkan beberapa jaringan, seperti jaringan lokal (LAN) dengan jaringan yang lebih luas (seperti internet). Router mengarahkan (routing) paket data antara jaringan yang berbeda dengan memeriksa alamat IP tujuan dan memutuskan jalur terbaik untuk mengirimkan data. Selain itu, router juga dapat menyediakan fitur keamanan seperti firewall dan pengaturan jaringan nirkabel (Wi-Fi).
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
