@@ -1,101 +1,73 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+title: Heamdally.net
+image: /img/goto.png
+heading: Pemasangan WiFi Profesional untuk Rumah, Kantor, dan Bisnis
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Heamdally.net menawarkan layanan pemasangan WiFi yang dirancang untuk memberikan koneksi internet yang cepat, stabil, dan andal untuk berbagai kebutuhan, mulai dari rumah pribadi, kantor, hingga bisnis. Dengan menggunakan perangkat berkualitas tinggi dan teknologi terkini, kami menyediakan solusi jaringan yang dapat diandalkan untuk memastikan aktivitas online Anda berjalan lancar tanpa hambatan.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/oke.jpeg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Pemasangan WiFi Rumah Kami menawarkan pemasangan WiFi yang optimal untuk rumah Anda. Dengan teknologi terbaru dan perangkat yang handal, kami memastikan rumah Anda mendapatkan jaringan internet yang cepat dan stabil di seluruh ruangan.
+    - image: /img/oke2.jpeg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        Pemasangan WiFi Kantor Solusi jaringan untuk kantor yang dapat mendukung aktivitas pekerjaan dengan koneksi yang cepat dan aman. Kami merancang dan memasang jaringan WiFi yang dapat menghubungkan berbagai perangkat sekaligus, memastikan kelancaran operasional bisnis Anda.
+    - image: /img/oke3.jpeg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        Pemasangan WiFi Bisnis Kami menyediakan pemasangan WiFi untuk berbagai jenis bisnis, mulai dari toko kecil hingga perusahaan besar. Layanan kami memastikan kebutuhan jaringan bisnis Anda terpenuhi dengan kinerja terbaik dan keamanan data yang terjamin.
+    - image: /img/contoh2.jpeg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Konsultasi dan Penyesuaian Jaringan Tim ahli kami siap membantu Anda memilih perangkat dan konfigurasi jaringan yang paling sesuai dengan kebutuhan Anda. Kami memberikan konsultasi untuk memastikan Anda mendapatkan solusi WiFi yang optimal sesuai dengan anggaran dan kebutuhan.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Perawatan dan Dukungan Teknis Kami tidak hanya menyediakan pemasangan, tetapi juga layanan perawatan dan dukungan teknis berkelanjutan untuk memastikan WiFi Anda selalu berfungsi dengan baik. Kami siap membantu mengatasi masalah teknis dan meningkatkan kualitas jaringan Anda kapan saja...
 main:
-  heading: Great coffee with no compromises
+  heading: Perawatan dan Dukungan Teknis 
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+   Kami tidak hanya menyediakan pemasangan, tetapi juga layanan perawatan dan dukungan teknis berkelanjutan untuk memastikan WiFi Anda selalu berfungsi dengan baik. Kami siap membantu mengatasi masalah teknis dan meningkatkan kualitas jaringan Anda kapan saja.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/hamdali.png
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/oke4.jpeg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/poto empat.jpeg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: bapak mahmudin s.com
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      "Saat pertama kali mencoba layanan pemasangan WiFi dari Heamdally.net, saya tidak percaya betapa cepat dan stabil koneksi yang saya dapatkan. Layanan yang luar biasa!"
+  - author: hj jajang lukman .spd
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+      "Heamdally.net adalah tempat yang tepat untuk mendapatkan pemasangan WiFi yang handal. Mereka memberikan solusi yang sangat efisien untuk kebutuhan bisnis kami."
+full_image: /img/contoh1.jpeg
 pricing:
-  heading: Monthly subscriptions
+  heading: Harga Paket Pemasangan WiFi
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Kami memudahkan Anda untuk memilih paket pemasangan WiFi yang sesuai dengan kebutuhan Anda. Hubungi kami untuk informasi lebih lanjut tentang detail paket dan metode pembayaran.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Ideal untuk penggunaan rumah tangga dengan 1-2 perangkat WiFi.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+        - Pemasangan WiFi 1-2 ruangan
+
+        - Layanan WiFi stabil dan cepat
+      plan: Paket kecil
+      price: Rp 500.000
+    - description: Cocok untuk kantor kecil atau keluarga dengan beberapa perangkat WiFi.
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - Pemasangan WiFi untuk hingga 4 ruangan
+        
+        - Jaringan WiFi cepat di semua area
+      plan: Paket sedang
+      price: Rp 800.000
+    - description: Terbaik untuk bisnis atau rumah dengan banyak perangkat dan kebutuhan WiFi tinggi.
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
+        - Pemasangan WiFi untuk lebih dari 4 ruangan
+        
+        - Jaringan WiFi untuk berbagai perangkat dengan kecepatan tinggi
+      plan: paket besar
+      price: Rp 1.200.000
 ---
