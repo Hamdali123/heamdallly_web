@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "gatsby";
-import github from "../img/github-icon.svg";
+import github from "../img/whatsapp.jpg";
 import logo from "../img/HEAMDALLY.NET.png";
 
 const Navbar = () => {
@@ -71,7 +71,7 @@ const Navbar = () => {
               rel="noopener noreferrer"
             >
               <span className="icon">
-                <img src={github} alt="Github" />
+                <img src={github} alt="WhatsApp" />
               </span>
             </a>
           </li>

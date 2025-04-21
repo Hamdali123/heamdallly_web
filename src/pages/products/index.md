@@ -1,8 +1,8 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Heamdally.net
-image: /img/goto.png
+title: HEAMDALLY.NET
+image: /img/background.jpg
 heading: Pemasangan WiFi Profesional untuk Rumah, Kantor, dan Bisnis
 description: >-
   Heamdally.net menawarkan layanan pemasangan WiFi yang dirancang untuk memberikan koneksi internet yang cepat, stabil, dan andal untuk berbagai kebutuhan, mulai dari rumah pribadi, kantor, hingga bisnis. Dengan menggunakan perangkat berkualitas tinggi dan teknologi terkini, kami menyediakan solusi jaringan yang dapat diandalkan untuk memastikan aktivitas online Anda berjalan lancar tanpa hambatan.
