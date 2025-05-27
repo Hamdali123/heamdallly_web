@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "Heamdally.nett",
     description:
-      "This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.",
+      "Butuh internet cepat dan stabil di rumah atau kantor? Hemdally.net menyediakan jasa pasang WiFi profesional dengan berbagai pilihan paket sesuai kebutuhan Anda. Teknisi ahli, instalasi cepat, dan layanan purna jual terbaik di wilayah Tangerang dan sekitarnya.",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
