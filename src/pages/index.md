@@ -14,11 +14,7 @@ description: >-
   Kecepatan Tinggi dan Stabil Dapatkan akses internet dengan kecepatan tinggi dan kualitas yang stabil, ideal untuk bekerja, streaming, bermain game, dan aktivitas online lainnya.
   Paket Sesuai Kebutuhan Pilih paket yang sesuai dengan kebutuhan Anda, baik untuk penggunaan pribadi, keluarga, atau bisnis.
   Dukungan Pelanggan 24/7 Kami siap membantu Anda kapan saja jika terjadi masalah dengan jaringan WiFi, memastikan koneksi Anda tetap optimal.
-subdescription: >-
-  Instalasi Cepat dan Mudah Tim ahli kami akan memasang jaringan WiFi dengan cepat, memastikan Anda bisa langsung menikmati internet tanpa ribet.
-  Kecepatan Tinggi dan Stabil Dapatkan akses internet dengan kecepatan tinggi dan kualitas yang stabil, ideal untuk bekerja, streaming, bermain game, dan aktivitas online lainnya.
-  Paket Sesuai Kebutuhan Pilih paket yang sesuai dengan kebutuhan Anda, baik untuk penggunaan pribadi, keluarga, atau bisnis.
-  Dukungan Pelanggan 24/7 Kami siap membantu Anda kapan saja jika terjadi masalah dengan jaringan WiFi, memastikan koneksi Anda tetap optimal.
+  
 intro:
   blurbs:
     - image: /img/kabel-utp.jpeg
