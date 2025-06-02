@@ -9,12 +9,15 @@ mainpitch:
   description: >
    Solusi Pemasangan WiFi Profesional!
    Heamdally.net adalah penyedia jasa pemasangan WiFi terpercaya yang menawarkan solusi jaringan internet terbaik untuk rumah, kantor, dan bisnis Anda. Kami mengerti bahwa koneksi internet yang stabil dan cepat sangat penting dalam kehidupan sehari-hari, oleh karena itu kami berkomitmen untuk memberikan layanan pemasangan WiFi yang handal dan efisien.
-description: >-
+description:
+ 
+  Dukungan Pelanggan 24/7 Kami siap membantu Anda kapan saja jika terjadi masalah dengan jaringan WiFi, memastikan koneksi Anda tetap optimal.
+subdescription: 
+
   Instalasi Cepat dan Mudah Tim ahli kami akan memasang jaringan WiFi dengan cepat, memastikan Anda bisa langsung menikmati internet tanpa ribet.
   Kecepatan Tinggi dan Stabil Dapatkan akses internet dengan kecepatan tinggi dan kualitas yang stabil, ideal untuk bekerja, streaming, bermain game, dan aktivitas online lainnya.
   Paket Sesuai Kebutuhan Pilih paket yang sesuai dengan kebutuhan Anda, baik untuk penggunaan pribadi, keluarga, atau bisnis.
   Dukungan Pelanggan 24/7 Kami siap membantu Anda kapan saja jika terjadi masalah dengan jaringan WiFi, memastikan koneksi Anda tetap optimal.
-  
 intro:
   blurbs:
     - image: /img/kabel-utp.jpeg
