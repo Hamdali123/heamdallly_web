@@ -11,7 +11,7 @@ mainpitch:
    Heamdally.net adalah penyedia jasa pemasangan WiFi terpercaya yang menawarkan solusi jaringan internet terbaik untuk rumah, kantor, dan bisnis Anda. Kami mengerti bahwa koneksi internet yang stabil dan cepat sangat penting dalam kehidupan sehari-hari, oleh karena itu kami berkomitmen untuk memberikan layanan pemasangan WiFi yang handal dan efisien.
 description:
  
-  Dukungan Pelanggan 24/7 Kami siap membantu Anda kapan saja jika terjadi masalah dengan jaringan WiFi, memastikan koneksi Anda tetap optimal.
+
 subdescription: 
 
   Instalasi Cepat dan Mudah Tim ahli kami akan memasang jaringan WiFi dengan cepat, memastikan Anda bisa langsung menikmati internet tanpa ribet.
