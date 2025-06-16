@@ -3,6 +3,21 @@ module.exports = {
     title: "Heamdally.nett",
     description:
       "Butuh internet cepat dan stabil di rumah atau kantor? Hemdally.net menyediakan jasa pasang WiFi profesional dengan berbagai pilihan paket sesuai kebutuhan Anda. Teknisi ahli, instalasi cepat, dan layanan purna jual terbaik di wilayah Tangerang dan sekitarnya.",
+    author: "muhamad hamdali",
+    keywords: [
+      "jasa pasang wifi Tangerang",
+      "pemasangan wifi rumah",
+      "instalasi wifi kantor",
+      "teknisi wifi profesional",
+      "wifi cepat stabil",
+      "pasang wifi rumah kantor",
+      "wifi murah Tangerang",
+      "setting jaringan wifi",
+      "penguatan sinyal wifi",
+      "wifi mesh Tangerang"
+    ],  
+    url:"https://heamdally.my.id",
+    
   },
   plugins: [
     "gatsby-plugin-react-helmet",
@@ -15,7 +30,6 @@ module.exports = {
       },
     },
     {
-      // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: "gatsby-source-filesystem",
       options: {
         path: `${__dirname}/static/img`,
@@ -36,20 +50,17 @@ module.exports = {
         name: "images",
       },
     },
-    `gatsby-plugin-image`,
+    "gatsby-plugin-image",
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
     {
       resolve: "gatsby-transformer-remark",
       options: {
         plugins: [
-          'gatsby-remark-relative-images',
+          "gatsby-remark-relative-images",
           {
             resolve: "gatsby-remark-images",
             options: {
-              // It's important to specify the maxWidth (in pixels) of
-              // the content container as this plugin uses this as the
-              // base for generating different widths of each image.
               maxWidth: 2048,
             },
           },
@@ -69,13 +80,13 @@ module.exports = {
       },
     },
     {
-      resolve: "gatsby-plugin-purgecss", // purges all unused/unreferenced css rules
+      resolve: "gatsby-plugin-purgecss",
       options: {
-        develop: true, // Activates purging in npm run develop
-        purgeOnly: ['/bulma-style.sass'], // applies purging only on the bulma css file
+        develop: true,
+        purgeOnly: ["/bulma-style.sass"],
         printRejected: true,
       },
-    }, // must be after other CSS plugins
-    "gatsby-plugin-netlify", // make sure to keep it last in the array
+    },
+    "gatsby-plugin-netlify", // keep this last
   ],
 };
